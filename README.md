@@ -7,7 +7,8 @@
 
 ## 🎵 배포 링크
 
-[Ez to Play](https://ez-to-play.netlify.app/)
+Netlify : https://ez-to-play.netlify.app/ <br />
+AWS S3 CloudFront : https://d2bp0gahq3ksca.cloudfront.net/ (현재 서버 연결 X)
 
 <br>
 
