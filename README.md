@@ -52,7 +52,7 @@ FE
 허진우
 </td>
 <td align="center">
-이도현
+✅이도현(본인)
 </td>
 <td align="center">
 최연동
